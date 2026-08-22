@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jirawat Maklam</h1>
+<h1 align="center">I'm Jirawat Maklam</h1>
 <h3 align="center">Data-focused student who turns raw data into decisions</h3>
 
 <p align="center">
