@@ -2,9 +2,9 @@
 <h3 align="center">Data-focused student who turns raw data into decisions</h3>
 
 <p align="center">
-  📧 koonwat1524@gmail.com &nbsp;|&nbsp;
-  📞 063-746-4493 &nbsp;|&nbsp;
-  📍 พระนครศรีอยุธยา, ไทย
+  koonwat1524@gmail.com|
+  063-746-4493 |
+  พระนครศรีอยุธยา, ไทย
 </p>
 
 ---
@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠️ Skills
+### Skills
 
 **Data**
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
@@ -49,7 +49,7 @@
 #### Data
 | Project | Description | Tools |
 |---|---|---|
-| **Data & Insight Analyst — ร้านเครื่องดื่มและอาหาร** | วางระบบเก็บข้อมูลรายจ่าย ผสาน data จาก POS กับ data ที่บันทึกเอง ทำ Data Pipeline วิเคราะห์หา Insight และเล่า Storytelling ให้เจ้าของร้านใช้ตัดสินใจ | Google Sheets, POS Data, Dashboard |
+| **Data & Insight Analyst — ร้านเครื่องดื่มและอาหาร** | วางระบบเก็บข้อมูลรายจ่าย ผสาน data จาก POS กับ data ที่บันทึกเอง ทำ Data Pipeline <br>วิเคราะห์หา Insight และเล่า Storytelling ให้เจ้าของร้านใช้ตัดสินใจ | Google Sheets,[Data-Clean](https://github.com/466415241006/Data-Clean.git)|
 | **Data Assistant — ผู้รับเหมาก่อสร้าง** | รวบรวมข้อมูลค่าใช้จ่ายจากใบเสร็จ ทำความสะอาดและสรุปภาพรวมโปรเจกต์ | Google Sheets |
 
 #### Web
