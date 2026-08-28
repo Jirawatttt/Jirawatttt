@@ -12,15 +12,11 @@
 
 <br/>
 
----
-
 ## กำลังมองหาตำแหน่งสหกิจศึกษาสาย Data / Web / IT
 
 > มีความสนใจและความมุ่งมั่นในสาย **Data** เป็นพิเศษ พร้อมประสบการณ์ตรงจากการทำงานจริง — ตั้งแต่วางแผนเก็บข้อมูล ทำความสะอาดข้อมูล วิเคราะห์หา Insight ไปจนถึงนำเสนอผลลัพธ์ด้วย Data Visualization และ Storytelling ให้ผู้ประกอบการนำไปใช้ตัดสินใจได้จริง ควบคู่ไปกับพื้นฐานด้าน **Web Development** จากโปรเจกต์จบและโปรเจกต์ส่วนตัว เรียนรู้ไว ปรับตัวเร็ว และพร้อมเข้าสู่การทำงานจริงในสภาพแวดล้อมแบบมืออาชีพ
 
 <br/>
-
----
 
 ## Education
 
@@ -32,8 +28,6 @@
 | **คาดว่าจะจบ** | 2027 |
 
 <br/>
-
----
 
 ## Tech Stack
 
@@ -48,8 +42,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
 
----
-
 **Web**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -59,25 +51,12 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
----
-
 **Currently Exploring**
 
 ![Cloud](https://img.shields.io/badge/Cloud_Computing-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![VM](https://img.shields.io/badge/Virtual_Machine-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white)
 
-</div>
-
-<br/>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jirawatttt&show_icons=true&theme=default&hide_title=false&hide_border=true&title_color=2E5F7A&icon_color=2E5F7A&text_color=333333" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jirawatttt&hide_border=true&background=FFFFFF&ring=2E5F7A&fire=2E5F7A&currStreakLabel=2E5F7A" height="165" alt="GitHub streak"/>
 </div>
 
 <br/>
@@ -129,7 +108,7 @@
 </td>
 <td width="50%" valign="top">
 
-**[My-Learning]**
+**My-Learning**
 
 รวมโปรเจคที่หยิบมาฝึกจริง แต่ละโปรเจค = หัวข้อที่กำลังเรียนรู้ในตอนนั้น <br> *มีความเข้าใจการทำงานของ Code เข้าใจ logicแต่ยังด้อยเรื่องการใช้ syntax*
 **"Mathematics is the language, Code is the magic spell"**
