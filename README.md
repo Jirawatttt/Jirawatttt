@@ -76,6 +76,8 @@
 
 `Google Sheets` `POS Data` `Dashboard`
 
+[🔗 View Repo](https://github.com/Jirawatttt/Data-Clean)
+
 </td>
 <td width="50%" valign="top">
 
