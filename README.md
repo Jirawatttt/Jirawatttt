@@ -72,9 +72,9 @@
 **Data & Insight Analyst**
 ร้านเครื่องดื่มและอาหาร
 
-วางระบบเก็บข้อมูลรายจ่าย ผสาน data จาก POS กับ data ที่บันทึกเอง ทำ Data Pipeline วิเคราะห์หา Insight พบว่าค่าใช้จ่ายโต 42% ขณะรายได้โต 19% นำเสนอผ่าน Dashboard และ Storytelling ให้เจ้าของร้านใช้ประกอบการตัดสินใจจริง
+วางระบบเก็บข้อมูลรายจ่าย ผสาน data จาก POS กับ data ที่บันทึกเอง ทำ Data Pipeline วิเคราะห์หา Insight นำเสนอผ่าน Dashboard และ Storytelling ให้เจ้าของร้านใช้ประกอบการตัดสินใจจริง
 
-`Google Sheets` `POS Data` `Dashboard`
+`Google Sheets` `Excel` `Python`
 
 [🔗 View Repo](https://github.com/Jirawatttt/Data-Clean)
 
@@ -86,7 +86,7 @@
 
 รวบรวมข้อมูลค่าใช้จ่ายจากใบเสร็จ ทำความสะอาดข้อมูลและสรุปภาพรวมค่าใช้จ่ายของโปรเจกต์ตามประเด็นที่ผู้รับเหมาต้องการทราบ
 
-`Google Sheets` `Data Cleaning`
+`Google Sheets`
 
 </td>
 </tr>
@@ -101,7 +101,7 @@
 **ระบบตรวจสอบสิทธิประโยชน์ภาครัฐเบื้องต้น**
 โปรเจกต์จบ
 
-ระบบคัดกรองสิทธิประโยชน์ด้วย Rule-based Logic ผสาน LLM AI ช่วยขยายความอธิบายให้ผู้ใช้เข้าใจง่ายขึ้น โดยไม่จัดเก็บข้อมูลส่วนตัว
+ระบบคัดกรองสิทธิประโยชน์ด้วย Rule-based Logic ผสาน LLM AI ช่วยขยายความอธิบายให้ผู้ใช้เข้าใจง่ายขึ้น โดยไม่จัดเก็บข้อมูลส่วนตัว กับการทำ RAG ด้วยโมเดลใช้ร่วมกับ LLM AI
 
 `Python` `PostgreSQL` `FastAPI` `HTML` `CSS` `JavaScript`
 
