@@ -99,13 +99,15 @@
 <td width="50%" valign="top">
 
 **ระบบตรวจสอบสิทธิประโยชน์ภาครัฐเบื้องต้น**
-โปรเจกต์จบ
+END_Project
 
-ระบบคัดกรองสิทธิประโยชน์ด้วย Rule-based Logic ผสาน LLM AI ช่วยขยายความอธิบายให้ผู้ใช้เข้าใจง่ายขึ้น โดยไม่จัดเก็บข้อมูลส่วนตัว กับการทำ RAG ด้วยโมเดลใช้ร่วมกับ LLM AI
+AI-powered Thai government benefits eligibility checker using RAG (Retrieval-Augmented Generation) — matches user profiles against a benefits catalogue via embedding similarity, then uses LLM to assess eligibility status. Built with FastAPI, OpenAI API, and PostgreSQL.
 
-`Python` `PostgreSQL` `FastAPI` `HTML` `CSS` `JavaScript`
+Backend:`Python` `FastAPI` `SQLAlchemy (async)` `PostgreSQL`
+AI: `LLM Model OpenAI (gpt-5.6-luna) ` `Embeddings (text-embedding-3-small สำหรับ RAG)`
+Frontend: `HTML` `CSS` `JavaScript (vanilla)` `Chart.js`
 
-[🔗 View Repo](https://github.com/Jirawatttt)
+[🔗 View Repo](https://github.com/Jirawatttt/RAG_AI_TEXT)
 
 </td>
 <td width="50%" valign="top">
