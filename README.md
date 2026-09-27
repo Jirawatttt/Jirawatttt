@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2E5F7A&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jirawat+Maklam;Data+Analyst+%7C+Web+Developer;Turning+Data+Into+Decisions%2C+Building+the+Web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=https://readme-typing-svg.demolab.com/demo/?weight=500&size=25&duration=3000&pause=500&color=0F136E&center=true&vCenter=true&lines=Hi+I'M+Jirawat+Maklam;I'M+Interested;Data%2FDeveloper%2FAI%2FCloud" alt="Typing SVG" />
 
 <br/>
 
@@ -103,9 +103,9 @@ END_Project
 
 AI-powered Thai government benefits eligibility checker using RAG (Retrieval-Augmented Generation) — matches user profiles against a benefits catalogue via embedding similarity, then uses LLM to assess eligibility status. Built with FastAPI, OpenAI API, and PostgreSQL.
 
-Backend:`Python` `FastAPI` `SQLAlchemy (async)` `PostgreSQL`
-AI: `LLM Model OpenAI (gpt-5.6-luna) ` `Embeddings (text-embedding-3-small สำหรับ RAG)`
-Frontend: `HTML` `CSS` `JavaScript (vanilla)` `Chart.js`
+Backend:`Python` `FastAPI` `SQLAlchemy (async)` `PostgreSQL` <br>
+AI: `LLM Model OpenAI (gpt-5.6-luna) ` `Embeddings (text-embedding-3-small for RAG)`<br>
+Frontend: `HTML` `CSS` `JavaScript (vanilla)` `Chart.js`<br>
 
 [🔗 View Repo](https://github.com/Jirawatttt/RAG_AI_TEXT)
 
