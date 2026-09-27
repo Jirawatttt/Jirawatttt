@@ -12,9 +12,9 @@
 
 <br/>
 
-## กำลังมองหาตำแหน่งสหกิจศึกษาสาย Data / Web / IT
+## กำลังมองหาตำแหน่งสหกิจศึกษาสาย Data / Developer / AI / Cloud
 
-> มีความสนใจและความมุ่งมั่นในสาย **Data** เป็นพิเศษ พร้อมประสบการณ์ตรงจากการทำงานจริง — ตั้งแต่วางแผนเก็บข้อมูล ทำความสะอาดข้อมูล วิเคราะห์หา Insight ไปจนถึงนำเสนอผลลัพธ์ด้วย Data Visualization และ Storytelling ให้ผู้ประกอบการนำไปใช้ตัดสินใจได้จริง ควบคู่ไปกับพื้นฐานด้าน **Web Development** จากโปรเจกต์จบและโปรเจกต์ส่วนตัว เรียนรู้ไว ปรับตัวเร็ว และพร้อมเข้าสู่การทำงานจริงในสภาพแวดล้อมแบบมืออาชีพ
+> มีความสนใจและความมุ่งมั่นในสาย **Data** เป็นพิเศษ พร้อมประสบการณ์ตรงจากการทำงานจริง — ตั้งแต่วางแผนเก็บข้อมูล ทำความสะอาดข้อมูล วิเคราะห์หา Insight ไปจนถึงนำเสนอผลลัพธ์ด้วย Data Visualization และ Storytelling ให้ผู้ประกอบการนำไปใช้ตัดสินใจได้จริง ควบคู่ไปกับพื้นฐานด้าน **Developer / AI / Cloud** จากโปรเจกต์จบและโปรเจกต์ส่วนตัว เรียนรู้ไว ปรับตัวเร็ว และพร้อมเข้าสู่การทำงานจริงในสภาพแวดล้อมแบบมืออาชีพ
 
 <br/>
 
@@ -42,7 +42,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
 
-**Web**
+**Developer**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -92,7 +92,7 @@
 </tr>
 </table>
 
-### Web
+### Developer
 
 <table>
 <tr>
