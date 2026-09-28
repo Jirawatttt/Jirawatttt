@@ -4,21 +4,19 @@
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/koonwat1524%40gmail.com-2E5F7A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koonwat1524@gmail.com)
-[![Phone](https://img.shields.io/badge/063--746--4493-2E5F7A?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:0637464493)
-[![Location](https://img.shields.io/badge/Ayutthaya%2C_Thailand-2E5F7A?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-
+**Gmail : **koonwat1524@gmail.com**** <br>
+**Phone : **063-746-4493**** <br>
+**IG    : **jirawat1508**** <br>
 </div>
 
+---
+### กำลังมองหาตำแหน่งสหกิจศึกษาสาย Data / Developer / AI / Cloud
+
+> สนใจสาย **Data** เป็นพิเศษ พร้อมประสบการณ์ตรงจากงานจริง — ตั้งแต่วางแผนเก็บข้อมูล ทำความสะอาดข้อมูล เขียนสคริปต์อัตโนมัติแทนงาน manual ไปจนถึงนำเสนอ Insight ด้วย Dashboard และ Storytelling ให้เจ้าของกิจการใช้ตัดสินใจได้จริง ควบคู่กับพื้นฐานด้าน **Developer / AI / Cloud** จากโปรเจกต์จบและโปรเจกต์ส่วนตัวที่ลงมือทำเองตั้งแต่ต้นจนจบ (Backend, Database, AI/RAG, Frontend) เรียนรู้ไว ปรับตัวเร็ว พร้อมเข้าสู่สภาพแวดล้อมการทำงานแบบมืออาชีพ
+
 <br/>
 
-## กำลังมองหาตำแหน่งสหกิจศึกษาสาย Data / Developer / AI / Cloud
-
-> มีความสนใจและความมุ่งมั่นในสาย **Data** เป็นพิเศษ พร้อมประสบการณ์ตรงจากการทำงานจริง — ตั้งแต่วางแผนเก็บข้อมูล ทำความสะอาดข้อมูล วิเคราะห์หา Insight ไปจนถึงนำเสนอผลลัพธ์ด้วย Data Visualization และ Storytelling ให้ผู้ประกอบการนำไปใช้ตัดสินใจได้จริง ควบคู่ไปกับพื้นฐานด้าน **Developer / AI / Cloud** จากโปรเจกต์จบและโปรเจกต์ส่วนตัว เรียนรู้ไว ปรับตัวเร็ว และพร้อมเข้าสู่การทำงานจริงในสภาพแวดล้อมแบบมืออาชีพ
-
-<br/>
-
-## Education
+#### Education
 
 | | |
 |---|---|
@@ -29,7 +27,7 @@
 
 <br/>
 
-## Tech Stack
+#### Tech Stack
 
 <div align="center">
 
@@ -48,6 +46,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
@@ -61,30 +60,55 @@
 
 <br/>
 
-## Featured Projects
+#### 🚀 Flagship Project
 
-### Data
+<table>
+<tr>
+<td width="55%" valign="top">
+
+**Smart Rights Viewer — AI Government Benefits Checker**
+
+ระบบตรวจสอบสิทธิประโยชน์ภาครัฐเบื้องต้นจากข้อความภาษาไทยแบบอิสระ พิมพ์เล่าสถานการณ์ตัวเอง (อายุ, สถานะงาน, ประกันสังคม, รายได้, สัญชาติ) ระบบค้นหลักฐานจากคลังความรู้ด้วย **RAG** แล้วให้ **LLM** ตัดสินว่าเข้าเกณฑ์สิทธิใดบ้าง พร้อมแบ่งผลเป็น 3 สถานะ, แนะนำคำถามเพิ่มเติมให้ผลแม่นขึ้น และมีแดชบอร์ดสถิติสิทธิยอดนิยม
+
+**Backend:** `Python` `FastAPI` `SQLAlchemy (async)` `PostgreSQL`
+**AI:** `OpenAI LLM` `Embeddings (RAG)`
+**Frontend:** `HTML` `CSS` `JavaScript` `Chart.js`
+
+[🔗 View Repo](https://github.com/Jirawatttt/RAG_AI_TEXT)
+
+</td>
+<td width="45%" valign="top">
+
+<img src="https://raw.githubusercontent.com/Jirawatttt/RAG_AI_TEXT/main/assets/Result0.png" width="100%" alt="Smart Rights Viewer - Result Page" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+#### Featured Projects
+
+**Data**
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Data & Insight Analyst**
-ร้านเครื่องดื่มและอาหาร
+**Data & Insight Analyst** — ร้านเครื่องดื่มและอาหาร
 
-วางระบบเก็บข้อมูลรายจ่าย ผสาน data จาก POS กับ data ที่บันทึกเอง ทำ Data Pipeline วิเคราะห์หา Insight นำเสนอผ่าน Dashboard และ Storytelling ให้เจ้าของร้านใช้ประกอบการตัดสินใจจริง
+เขียนสคริปต์ Python แทนขั้นตอนทำรายงานยอดขายที่แต่เดิมทำมือทุกเดือน: รวมไฟล์ export จาก POS หลายไฟล์, คลีนและจับคู่ชื่อสินค้ากับ master menu อัตโนมัติ, สรุปยอดขาย/กำไรตามวันในสัปดาห์ และแยกยอดตามหมวดหมู่พร้อม cross-check กับใบเสร็จ — ลดเวลาทำรายงานจากทำมือหลักชั่วโมง เหลือรันคำสั่งเดียวจบ
 
-`Google Sheets` `Excel` `Python`
+`Python` `pandas` `openpyxl` `Google Sheets` `Excel`
 
 [🔗 View Repo](https://github.com/Jirawatttt/Data-Clean)
 
 </td>
 <td width="50%" valign="top">
 
-**Data Assistant**
-ผู้รับเหมาก่อสร้าง
+**Data Assistant** — ผู้รับเหมาก่อสร้าง
 
-รวบรวมข้อมูลค่าใช้จ่ายจากใบเสร็จ ทำความสะอาดข้อมูลและสรุปภาพรวมค่าใช้จ่ายของโปรเจกต์ตามประเด็นที่ผู้รับเหมาต้องการทราบ
+รวบรวมข้อมูลค่าใช้จ่ายจากใบเสร็จ ทำความสะอาดข้อมูลและสรุปภาพรวมค่าใช้จ่ายของโปรเจกต์ตามประเด็นที่ผู้รับเหมาต้องการทราบ ใช้ประกอบการควบคุมงบประมาณจริงหน้างาน
 
 `Google Sheets`
 
@@ -92,30 +116,19 @@
 </tr>
 </table>
 
-### Developer
+**Developer / Learning**
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-**ระบบตรวจสอบสิทธิประโยชน์ภาครัฐเบื้องต้น**
-END_Project
+**My-Learning** — บันทึกการเดินทางสายโค้ด
 
-AI-powered Thai government benefits eligibility checker using RAG (Retrieval-Augmented Generation) — matches user profiles against a benefits catalogue via embedding similarity, then uses LLM to assess eligibility status. Built with FastAPI, OpenAI API, and PostgreSQL.
+รวมโปรเจกต์ฝึกฝีมือที่ลงมือทำจริงตั้งแต่ต้นจนจบ แต่ละโปรเจกต์เชื่อมต่อฐานข้อมูลจริงและมี README อธิบายหลักการทำงานแยกของตัวเอง:
 
-Backend:`Python` `FastAPI` `SQLAlchemy (async)` `PostgreSQL` <br>
-AI: `LLM Model OpenAI (gpt-5.6-luna) ` `Embeddings (text-embedding-3-small for RAG)`<br>
-Frontend: `HTML` `CSS` `JavaScript (vanilla)` `Chart.js`<br>
-
-[🔗 View Repo](https://github.com/Jirawatttt/RAG_AI_TEXT)
-
-</td>
-<td width="50%" valign="top">
-
-**My-Learning**
-
-รวมโปรเจคที่หยิบมาฝึกจริง แต่ละโปรเจค = หัวข้อที่กำลังเรียนรู้ในตอนนั้น <br> *มีความเข้าใจการทำงานของ Code เข้าใจ logicแต่ยังด้อยเรื่องการใช้ syntax*
-**"Mathematics is the language, Code is the magic spell"**
+- 🌤️ **Weather API Web** — เว็บเช็คสภาพอากาศเรียลไทม์ ผ่าน REST API ของตัวเอง · `Node.js` `Express` `Open-Meteo API`
+- 🛒 **Product CRUD Web** — ระบบจัดการสินค้า เพิ่ม/ดู/ลบ เชื่อมต่อฐานข้อมูลจริง · `Python` `Flask` `PostgreSQL`
+- 🔐 **Login & Register** — ระบบสมัครสมาชิก/เข้าสู่ระบบ เข้ารหัสผ่านด้วย bcrypt · `Node.js` `Express` `PostgreSQL` `bcrypt`
 
 `JavaScript` `Python` `HTML` `CSS`
 
@@ -124,11 +137,3 @@ Frontend: `HTML` `CSS` `JavaScript (vanilla)` `Chart.js`<br>
 </td>
 </tr>
 </table>
-
-<br/>
-
-<div align="center">
-
-[![Follow](https://img.shields.io/github/followers/Jirawatttt?label=Follow&style=social)](https://github.com/Jirawatttt)
-
-</div>
